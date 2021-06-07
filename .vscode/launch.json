@@ -1,0 +1,12 @@
+{
+    "configurations": [
+        
+
+        {
+            "type": "pwa-chrome",
+            "name": "https://github.com/xray-ray/reactjs.git",
+            "request": "launch",
+            "url": "https://github.com/xray-ray/reactjs.git"
+        }
+    ]
+}
