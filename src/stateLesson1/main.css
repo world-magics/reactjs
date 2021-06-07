@@ -1,0 +1,14 @@
+.main{
+    margin: 100px 100px;
+}
+
+
+.btn{
+    margin: 15px;
+    padding: 35px;
+    color:blue;
+    background-color: rgba(90, 97, 206, 0.644);
+    font-size: 45px;
+    border-color: chartreuse;
+    
+}
