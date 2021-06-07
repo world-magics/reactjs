@@ -1,10 +1,11 @@
 import React from 'react';
 import PropTypes from 'prop-types';
 
-const Component1 = () => {
+const Component1 = (props) => {
     return (
         <div>
-            <p>Hello</p>
+            <h1>Hello,{props.name},{props.age}</h1>
+            <h1>Hi! My years old,{props.age}</h1>
         </div>
     );
 };
