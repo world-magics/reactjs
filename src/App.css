@@ -35,3 +35,9 @@
     transform: rotate(360deg);
   }
 }
+h2{
+  color: blue;
+}
+p{
+  color: firebrick;
+}

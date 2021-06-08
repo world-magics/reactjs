@@ -8,12 +8,14 @@ import Component2 from './propsTutorial/Component2';
 import Lesson1 from './stateLesson1/Lesson1';
 import Counter from './stateLesson1/Counter';
 import Lifecycle from './LifeCyclelesson/Lifecycle';
+import Backend from './APITutorial/Backend';
 function App() {
   return (
     <div className="App"> 
     {/* <MyApp /> */
 //  <Counter/>
- <Lifecycle/>
+//  <Lifecycle/>
+<Backend/>
      
     }
      {/* <Component1 name="Sherzod" age="24"/>,
