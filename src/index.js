@@ -22,9 +22,7 @@ import SimpleReactLightbox from 'simple-react-lightbox'
 
 ReactDOM.render(
 
-    <React.StrictMode>
-    <SimpleReactLightbox>
-      <App />
-    </SimpleReactLightbox>
-    </React.StrictMode>,
+   
+      <App />,
+  
      document.getElementById('root'));

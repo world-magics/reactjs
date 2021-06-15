@@ -8,6 +8,7 @@ body{
     color: rgba(0, 26, 255, 0.74);
 }
 .bigText{
+    font-size: 85px;
     color: blueviolet;
     font-kerning: inherit;
     font-style: italic;
