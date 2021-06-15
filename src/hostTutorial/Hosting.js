@@ -4,7 +4,7 @@ import './master.css'
 const Hosting = () => {
     return (
         <div>
-            <h1 className="bigText">This Text is React Application</h1>
+            <h1 className="bigText">Kuzingizni kising aka</h1>
             <p className="description">
             Lorem ipsum, dolor sit amet consectetur 
         adipisicing elit. Inventore repudiandae 
