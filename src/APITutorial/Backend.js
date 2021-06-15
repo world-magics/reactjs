@@ -23,9 +23,10 @@ class Backend extends React.Component {
             console.log(res)
             this.setState({post})
             
-        })
+                })
         }
 
+                    
     render() {
         return (
             <>

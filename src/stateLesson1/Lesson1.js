@@ -1,4 +1,4 @@
-import React, { PureComponent } from 'react'
+import React from 'react'
 
 class Lesson1 extends React.Component {
     constructor(props) {

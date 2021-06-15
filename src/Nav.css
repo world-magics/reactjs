@@ -1,0 +1,28 @@
+.nav{
+    display: flex;
+    justify-content: space-around;
+    background-color: rgba(76, 0, 130, 0.932);
+}
+nav .navbar-brand{
+    font-size: 20px;
+    color: ivory;
+    font-weight: 800;
+}
+ul{
+    display: flex;
+    list-style: none;
+    text-decoration: none;
+    color: white;
+}
+ul li{
+    margin: 10px;
+    list-style-type: none;
+    list-style: none;
+    text-decoration: none;
+  
+}
+ul li{
+   color: #ffffff;
+   list-style: none;
+   text-decoration: none;
+}

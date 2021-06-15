@@ -1,0 +1,19 @@
+body{
+    background-color: #000;
+    margin: 0;
+    padding: 0;
+}
+
+.description{
+    color: rgba(0, 26, 255, 0.74);
+}
+.bigText{
+    color: blueviolet;
+    font-kerning: inherit;
+    font-style: italic;
+    align-items: center !important;
+    justify-content: center !important;
+    margin: 5px auto !important; 
+    justify-items: center;
+    text-align: center;
+}
