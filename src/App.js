@@ -1,6 +1,7 @@
 import React from 'react';
 // import MyApp from './components/MyApp';
 import './App.css';
+import AnimationAOSdanfoydalanish from './scrollEffect/AnimationAOSdanfoydalanish';
 // import Component1 from './propsTutorial/Component1';
 
 // import Component2 from './propsTutorial/Component2';
@@ -20,7 +21,9 @@ import './App.css';
 //import Effect from './UseEffect/Effectss'
 // import Effectss from './UseEffect/Effectss';
 //import Modalss from './ModalVideo/Modalss'
-import Hosting from './hostTutorial/Hosting';
+// import Hosting from './hostTutorial/Hosting';
+//import YandexMaps from './YandexMap/YandexMaps';
+import ReactReveal from './scrollEffect/ReactReveal'
 function App() {
   return (
   
@@ -28,12 +31,14 @@ function App() {
     {/* <MyApp /> */
 //  <Counter/>
 //  <Lifecycle/>
+//<YandexMaps/>
 
 // <SassInReact/>
 //<Modalss/> 
 
     }
-    <Hosting/>
+   {/* <AnimationAOSdanfoydalanish/> */}
+<ReactReveal/>
 
 {/* <Nav/>
 <SimpleChart/>
