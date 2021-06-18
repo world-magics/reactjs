@@ -1,9 +1,9 @@
 import React from 'react';
 // import MyApp from './components/MyApp';
 import './App.css';
-import AnimationAOSdanfoydalanish from './scrollEffect/AnimationAOSdanfoydalanish';
+//import AnimationAOSdanfoydalanish from './scrollEffect/AnimationAOSdanfoydalanish';
 // import Component1 from './propsTutorial/Component1';
-
+import ReactLazy from './ReactLazy/ReactLazy'
 // import Component2 from './propsTutorial/Component2';
 
 // import Lesson1 from './stateLesson1/Lesson1';
@@ -28,6 +28,7 @@ function App() {
   return (
   
     <div className="App"> 
+    <ReactLazy/>
     {/* <MyApp /> */
 //  <Counter/>
 //  <Lifecycle/>
@@ -38,7 +39,7 @@ function App() {
 
     }
    {/* <AnimationAOSdanfoydalanish/> */}
-<ReactReveal/>
+{/* <ReactReveal/> */}
 
 {/* <Nav/>
 <SimpleChart/>
